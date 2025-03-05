@@ -2,7 +2,7 @@ import streamlit as st
 
 
 def main():
-    st.title("Thông tin người sử dụng 1")
+    st.title("Thông tin người sử dụng")
 
     # Nhập thông tin người dùng
     user_name = st.text_input("Nhập tên người dùng:", "Guest")
